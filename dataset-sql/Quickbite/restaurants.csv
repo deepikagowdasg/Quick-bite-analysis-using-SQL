@@ -1,0 +1,21 @@
+restaurant_id,restaurant_name,city,cuisine,rating
+1,Spice Route,Bengaluru,Indian,4.5
+2,Burger Hub,Mumbai,Fast Food,4.2
+3,Tandoori Tales,Delhi,North Indian,4.6
+4,Dosa Corner,Chennai,South Indian,4.4
+5,Bengal Spice,Kolkata,Bengali,4.3
+6,Royal Biryani,Hyderabad,Biryani,4.7
+7,Pune Bowl,Pune,Healthy,4.1
+8,Urban Pizza,Ahmedabad,Italian,4.0
+9,Curry House,Bengaluru,Indian,4.4
+10,Wok Express,Mumbai,Chinese,4.1
+11,Delhi Tadka,Delhi,Indian,4.5
+12,Chennai Grill,Chennai,Grill,4.2
+13,Kolkata Kitchen,Kolkata,Bengali,4.6
+14,Hyderabad Spice,Hyderabad,Indian,4.5
+15,Pune Treats,Pune,Desserts,4.0
+16,Ahmedabad Bites,Ahmedabad,Gujarati,4.4
+17,South Feast,Bengaluru,South Indian,4.3
+18,Mumbai Meals,Mumbai,Indian,4.2
+19,Capital Kitchen,Delhi,Multi Cuisine,4.4
+20,Chai & Snacks,Kolkata,Snacks,4.1

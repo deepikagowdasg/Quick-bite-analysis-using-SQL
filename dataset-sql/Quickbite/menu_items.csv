@@ -1,0 +1,41 @@
+item_id,restaurant_id,item_name,category,price
+1,1,Item 1,Main Course,458.9
+2,2,Item 2,Starter,133.26
+3,3,Item 3,Beverage,265.77
+4,4,Item 4,Dessert,238.3
+5,5,Item 5,Main Course,510.33
+6,6,Item 6,Starter,478.65
+7,7,Item 7,Beverage,592.86
+8,8,Item 8,Dessert,166.08
+9,9,Item 9,Main Course,343.62
+10,10,Item 10,Starter,135.79
+11,11,Item 11,Beverage,235.88
+12,12,Item 12,Dessert,387.84
+13,13,Item 13,Main Course,134.06
+14,14,Item 14,Starter,225.38
+15,15,Item 15,Beverage,464.44
+16,16,Item 16,Dessert,408.82
+17,17,Item 17,Main Course,236.83
+18,18,Item 18,Starter,432.31
+19,19,Item 19,Beverage,549.0
+20,20,Item 20,Dessert,123.44
+21,1,Item 21,Main Course,547.08
+22,2,Item 22,Starter,490.01
+23,3,Item 23,Beverage,300.33
+24,4,Item 24,Dessert,202.4
+25,5,Item 25,Main Course,627.32
+26,6,Item 26,Starter,298.4
+27,7,Item 27,Beverage,169.16
+28,8,Item 28,Dessert,171.26
+29,9,Item 29,Main Course,569.17
+30,10,Item 30,Starter,439.97
+31,11,Item 31,Beverage,547.78
+32,12,Item 32,Dessert,506.76
+33,13,Item 33,Main Course,404.2
+34,14,Item 34,Starter,635.75
+35,15,Item 35,Beverage,320.62
+36,16,Item 36,Dessert,412.58
+37,17,Item 37,Main Course,559.58
+38,18,Item 38,Starter,447.82
+39,19,Item 39,Beverage,576.7
+40,20,Item 40,Dessert,426.0

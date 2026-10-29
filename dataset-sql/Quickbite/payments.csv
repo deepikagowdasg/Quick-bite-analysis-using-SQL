@@ -1,0 +1,51 @@
+payment_id,order_id,payment_method,payment_status,payment_date
+1,1,Credit Card,Paid,2025-06-19
+2,2,Cash,Pending,2025-07-04
+3,3,UPI,Paid,2025-06-29
+4,4,Credit Card,Paid,2025-09-19
+5,5,Debit Card,Paid,2025-08-16
+6,6,Cash,Paid,2025-07-03
+7,7,Credit Card,Paid,2025-08-27
+8,8,Debit Card,Paid,2025-06-15
+9,9,Credit Card,Paid,2025-08-04
+10,10,UPI,Paid,2025-09-16
+11,11,Cash,Pending,2025-09-06
+12,12,UPI,Paid,2025-08-16
+13,13,Cash,Paid,2025-09-21
+14,14,Credit Card,Paid,2025-06-11
+15,15,Credit Card,Paid,2025-09-07
+16,16,Cash,Paid,2025-07-04
+17,17,Debit Card,Paid,2025-09-05
+18,18,Debit Card,Paid,2025-08-25
+19,19,Credit Card,Paid,2025-07-02
+20,20,Credit Card,Paid,2025-06-30
+21,21,UPI,Paid,2025-06-30
+22,22,Credit Card,Paid,2025-08-05
+23,23,Cash,Paid,2025-06-17
+24,24,Debit Card,Paid,2025-07-02
+25,25,Debit Card,Paid,2025-06-13
+26,26,UPI,Paid,2025-09-19
+27,27,Debit Card,Paid,2025-06-08
+28,28,Debit Card,Paid,2025-06-25
+29,29,Cash,Failed,2025-07-06
+30,30,Debit Card,Paid,2025-09-12
+31,31,UPI,Paid,2025-06-12
+32,32,UPI,Paid,2025-08-01
+33,33,Debit Card,Paid,2025-06-01
+34,34,Credit Card,Paid,2025-07-25
+35,35,Debit Card,Pending,2025-06-20
+36,36,UPI,Paid,2025-06-08
+37,37,UPI,Paid,2025-08-04
+38,38,Cash,Paid,2025-06-09
+39,39,Debit Card,Paid,2025-06-16
+40,40,Debit Card,Paid,2025-06-11
+41,41,Cash,Paid,2025-09-28
+42,42,UPI,Failed,2025-07-04
+43,43,Cash,Paid,2025-07-11
+44,44,Credit Card,Paid,2025-08-12
+45,45,Debit Card,Failed,2025-06-17
+46,46,UPI,Paid,2025-06-21
+47,47,Cash,Paid,2025-09-12
+48,48,UPI,Paid,2025-07-09
+49,49,Credit Card,Paid,2025-09-22
+50,50,Debit Card,Pending,2025-08-17
